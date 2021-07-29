@@ -11,3 +11,9 @@ export default defineComponent({
   setup() {}
 })
 </script>
+<style lang="scss" scoped>
+.layout {
+  margin: 10px 15px;
+  font-size: 16px;
+}
+</style>

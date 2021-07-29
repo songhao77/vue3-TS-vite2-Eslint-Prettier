@@ -26,7 +26,6 @@ request.interceptors.request.use(
     // if (store.state.token) {
     // config.headers['Authorization'] = `Bearer ${store.state.token}`
     // }
-    console.log('1111')
     return config
   },
   (err: any) => {
